@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EsempioEreditarietà/1.0.0": {
+        "runtime": {
+          "EsempioEreditarietà.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EsempioEreditarietà/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
