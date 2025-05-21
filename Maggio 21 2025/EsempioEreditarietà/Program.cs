@@ -16,7 +16,7 @@ public class Cane : Animale
         Console.WriteLine("Il cane scodinzola.");
     }
 
-    public virtual void FaiVerso()
+    public void FaiVerso()
     {
         Console.WriteLine("Il cane dice bau.");
     }
