@@ -106,6 +106,9 @@ public class Program
                     Console.WriteLine("Arrivederci!");
                     esci = true; // Cambia esci in true per finire il ciclo una volta finito
                     break;
+                default:
+                    Console.WriteLine("ERRORE INPUT - Ritorno al menù.");
+                    break;
             }
         } while (!esci);
     }

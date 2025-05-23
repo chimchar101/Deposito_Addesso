@@ -69,7 +69,7 @@ public class Program
                     esci = true;
                     break;
                 default:
-                    Console.WriteLine("ERRORE: Input errato. Torno al menù.");
+                    Console.WriteLine("ERRORE INPUT - Ritorno al menù.");
                     break;
             }
         } while (!esci);
