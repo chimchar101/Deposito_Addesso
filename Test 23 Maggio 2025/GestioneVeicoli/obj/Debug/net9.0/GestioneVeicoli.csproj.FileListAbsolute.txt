@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\bin\Debug\net9.0\GestioneVeicoli.exe
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\bin\Debug\net9.0\GestioneVeicoli.deps.json
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\bin\Debug\net9.0\GestioneVeicoli.runtimeconfig.json
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\bin\Debug\net9.0\GestioneVeicoli.dll
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\bin\Debug\net9.0\GestioneVeicoli.pdb
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\obj\Debug\net9.0\GestioneVeicoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\obj\Debug\net9.0\GestioneVeicoli.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\obj\Debug\net9.0\GestioneVeicoli.AssemblyInfo.cs
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\obj\Debug\net9.0\GestioneVeicoli.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\obj\Debug\net9.0\GestioneVeicoli.dll
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\obj\Debug\net9.0\refint\GestioneVeicoli.dll
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\obj\Debug\net9.0\GestioneVeicoli.pdb
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\obj\Debug\net9.0\GestioneVeicoli.genruntimeconfig.cache
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\GestioneVeicoli\obj\Debug\net9.0\ref\GestioneVeicoli.dll
