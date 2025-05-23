@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\bin\Debug\net9.0\ContoCorrente.exe
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\bin\Debug\net9.0\ContoCorrente.deps.json
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\bin\Debug\net9.0\ContoCorrente.runtimeconfig.json
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\bin\Debug\net9.0\ContoCorrente.dll
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\bin\Debug\net9.0\ContoCorrente.pdb
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\obj\Debug\net9.0\ContoCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\obj\Debug\net9.0\ContoCorrente.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\obj\Debug\net9.0\ContoCorrente.AssemblyInfo.cs
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\obj\Debug\net9.0\ContoCorrente.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\obj\Debug\net9.0\ContoCorrente.dll
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\obj\Debug\net9.0\refint\ContoCorrente.dll
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\obj\Debug\net9.0\ContoCorrente.pdb
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\obj\Debug\net9.0\ContoCorrente.genruntimeconfig.cache
+C:\Users\simon\Desktop\Academy C#\Test 23 Maggio 2025\ContoCorrente\obj\Debug\net9.0\ref\ContoCorrente.dll
