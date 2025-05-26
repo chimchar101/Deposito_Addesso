@@ -98,6 +98,7 @@ public class Program
 
         Computer computer = new Computer(modello);
         dispositivi.Add(computer);
+        Console.WriteLine("Computer aggiunto!");
     }
 
     private static void AggiungiStampante(List<DispositivoElettronico> dispositivi)
@@ -107,6 +108,7 @@ public class Program
 
         Stampante stampante = new Stampante(modello);
         dispositivi.Add(stampante);
+        Console.WriteLine("Stampante aggiunta!");
     }
 
     private static void StampaModello(List<DispositivoElettronico> dispositivi)
