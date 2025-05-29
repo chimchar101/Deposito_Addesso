@@ -52,6 +52,6 @@ Questa repository contiene le lezioni e gli esercizi scritti durante il mio perc
 
 - **Simone Addesso** - [chimchar101](https://github.com/chimchar101)
 
-## 👨‍🏫 Autore
+## 👨‍🏫 Insegnanti
 - Edoardo Del Sarto
 - Mirko Campari
