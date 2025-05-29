@@ -5,19 +5,10 @@ public interface IObserver
     void Update(string news);
 }
 
-public interface ISubject
-{
-    void Attach(IObserver observer);
-    void Detach(IObserver observer);
-    void Notify(string news);
-}
-
-public sealed class NewsAgency
+public class NewsAgency
 {
     private static NewsAgency _instance;
-    private readonly List<IObserver> _observers = new List<IObserver>();
-
-    private NewsAgency() { }
+    private IObserver _subscriber;
 
     public static NewsAgency Instance
     {
@@ -29,23 +20,15 @@ public sealed class NewsAgency
         }
     }
 
-    public void Register(IObserver observer)
+    public void Register(IObserver newSubscriber)
     {
-        if (!_observers.Contains(observer))
-            _observers.Add(observer);
-    }
-
-    public void Remove(IObserver observer)
-    {
-        _observers.Remove(observer);
+        _subscriber = newSubscriber;
     }
 
     public void Notify(string news)
     {
-        foreach (var observer in _observers)
-        {
-            observer.Update(news);
-        }
+        if (_subscriber != null)
+            _subscriber.Update(news);
     }
 
     public void PublishNews(string news)
@@ -79,14 +62,40 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        var mobile = new MobileApp();
-        var email = new EmailClient();
+        var agency = NewsAgency.Instance;
+        IObserver mobile = new MobileApp();
+        IObserver email = new EmailClient();
+        bool esci = false;
+        string news;
 
-        NewsAgency.Instance.Register(mobile);
-        NewsAgency.Instance.PublishNews("Questa è una notizia per mobile!");
+        do
+        {
+            Console.WriteLine("Benvenuto. Cosa vuoi fare?");
+            Console.WriteLine("[1] Invia notizia con notifica mobile\n[2] Invia notizia per email\n[0] Esci");
+            int scelta = int.Parse(Console.ReadLine());
 
-        NewsAgency.Instance.Remove(mobile);
-        NewsAgency.Instance.Register(email);
-        NewsAgency.Instance.PublishNews("Questa è una notizia per email!");
+            switch (scelta)
+            {
+                case 1:
+                    agency.Register(mobile);
+                    Console.WriteLine("Inserisci la notizia:");
+                    news = Console.ReadLine();
+                    agency.Notify(news);
+                    break;
+                case 2:
+                    agency.Register(email);
+                    Console.WriteLine("Inserisci la notizia:");
+                    news = Console.ReadLine();
+                    agency.Notify(news);
+                    break;
+                case 0:
+                    esci = true;
+                    Console.WriteLine("Arrivederci campione!");
+                    break;
+                default:
+                    Console.WriteLine("ERRORE INPUT - Ritorno al menù.");
+                    break;
+            }
+        } while (!esci);
     }
 }
