@@ -30,12 +30,6 @@ public class NewsAgency
         if (_subscriber != null)
             _subscriber.Update(news);
     }
-
-    public void PublishNews(string news)
-    {
-        Console.WriteLine($"Notizia pubblicata: {news}");
-        Notify(news);
-    }
 }
 
 public class MobileApp : IObserver
