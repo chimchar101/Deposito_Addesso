@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\bin\Debug\net9.0\PizzeriaSmart.exe
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\bin\Debug\net9.0\PizzeriaSmart.deps.json
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\bin\Debug\net9.0\PizzeriaSmart.runtimeconfig.json
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\bin\Debug\net9.0\PizzeriaSmart.dll
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\bin\Debug\net9.0\PizzeriaSmart.pdb
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\obj\Debug\net9.0\PizzeriaSmart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\obj\Debug\net9.0\PizzeriaSmart.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\obj\Debug\net9.0\PizzeriaSmart.AssemblyInfo.cs
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\obj\Debug\net9.0\PizzeriaSmart.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\obj\Debug\net9.0\PizzeriaSmart.dll
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\obj\Debug\net9.0\refint\PizzeriaSmart.dll
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\obj\Debug\net9.0\PizzeriaSmart.pdb
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\obj\Debug\net9.0\PizzeriaSmart.genruntimeconfig.cache
+C:\Users\simon\Desktop\Academy C#\Testo 30 Maggio 2025\PizzeriaSmart\obj\Debug\net9.0\ref\PizzeriaSmart.dll

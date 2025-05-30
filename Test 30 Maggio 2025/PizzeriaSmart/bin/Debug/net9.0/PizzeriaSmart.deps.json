@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PizzeriaSmart/1.0.0": {
+        "runtime": {
+          "PizzeriaSmart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzeriaSmart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
