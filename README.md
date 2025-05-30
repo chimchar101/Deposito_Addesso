@@ -31,6 +31,7 @@ Questa repository contiene le lezioni e gli esercizi scritti durante il mio perc
   2. Factory Method
   3. Observer
   4. Decorator
+  5. Strategy
 
 ## ⬇️ Come accedere alla repository
 
