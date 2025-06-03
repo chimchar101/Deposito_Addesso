@@ -32,6 +32,7 @@ Questa repository contiene le lezioni e gli esercizi scritti durante il mio perc
   3. Observer
   4. Decorator
   5. Strategy
+  6. Dependency Injection
 
 ## ⬇️ Come accedere alla repository
 
