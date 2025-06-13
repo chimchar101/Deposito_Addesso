@@ -33,6 +33,7 @@ Questa repository contiene le lezioni e gli esercizi scritti durante il mio perc
   4. Decorator
   5. Strategy
   6. Dependency Injection
+- Implementazione di Database in MySQL in codici C#
 
 ## ⬇️ Come accedere alla repository
 
@@ -57,3 +58,4 @@ Questa repository contiene le lezioni e gli esercizi scritti durante il mio perc
 ## 👨‍🏫 Insegnanti
 - Edoardo Del Sarto
 - Mirko Campari
+- Michael Bagnoli
