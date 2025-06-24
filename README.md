@@ -11,8 +11,9 @@ Questa repository contiene le lezioni e gli esercizi scritti durante il mio perc
 
 - **Linguaggio**: C#
 - **IDE**: Visual Studio Code
-- **Versioning**: GitHub
 - **Framework**: .NET 9.0
+- **Database**: MySQL Community 8.0.42 / MySQL Workbench
+- **Versioning**: GitHub / GitHub Desktop
 
 ## 📝 Argomenti affrontati
 
@@ -33,12 +34,14 @@ Questa repository contiene le lezioni e gli esercizi scritti durante il mio perc
   4. Decorator
   5. Strategy
   6. Dependency Injection
-- Implementazione di Database in MySQL in codici C#
+- Implementazione di Database MySQL in C#
 
 ## ⬇️ Come accedere alla repository
 
 ### Prerequisiti
 - .NET SDK installato
+- MySQL installato
+- IDE installato
 ### Processo
 1. Apri Git Bash
 2. Clona la repository
@@ -49,7 +52,8 @@ Questa repository contiene le lezioni e gli esercizi scritti durante il mio perc
 4. Leggi e modifica gli esercizi scritti da me a tuo piacimento
 ### Consigliati
 - **Framework**: [.NET 9.0](https://dotnet.microsoft.com/it-it/download/dotnet/9.0)
-- **Editor**: [Visual Studio Code](https://code.visualstudio.com/)
+- **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
+- **Database**: [MySQL Community 8.0.42](https://dev.mysql.com/downloads/installer/) (installa pacchetto completo con Workbench)
 
 ## 👤 Autore
 
