@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string connStr = "server=localhost;port=3306;user=root;password=Super!Password!Epica!2002!;database=agenzia_viaggi;";
+        string connStr = "server=[SERVER];port=[PORT];user=[USER];password=[PASSWORD];database=[DATABASE];";
         MySqlConnection conn = new MySqlConnection(connStr);
         bool esci = false;
 
